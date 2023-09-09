@@ -56,7 +56,7 @@ function compareGreekVerbs(verb1, verb2) {
 }
 
 function shuffleObjects(objects) {
-  return objects;
+  // return objects;
   for (let i = objects.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [objects[i], objects[j]] = [objects[j], objects[i]];

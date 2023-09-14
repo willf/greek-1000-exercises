@@ -1,0 +1,15 @@
+# run as bash script
+# cat input.csv | python3 csvtranspose.py > output.csv
+import csv
+import sys
+
+# Read CSV from stdin
+reader = csv.reader(sys.stdin)
+data = list(reader)
+
+# Transpose data
+transposed_data = list(map(list, zip(*data)))
+
+# Write CSV to stdout
+writer = csv.writer(sys.stdout)
+writer.writerows(transposed_data)

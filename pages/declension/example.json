@@ -1,0 +1,23 @@
+{
+  "form": "ἀγορά, ἀγορᾶς, ἡ",
+  "translation": "marketplace",
+  "stem": "ἀγορα",
+  "gender": "feminine",
+  "declensionType": "First declension, feminine",
+
+    "singular": {
+      "nominative": "ἀγορά",
+      "genitive": "ἀγορᾶς",
+      "dative": "ἀγορᾷ",
+      "accusative": "ἀγοράν",
+      "vocative": "ἀγορά"
+    },
+    "plural": {
+      "nominative": "ἀγοραί",
+      "genitive": "ἀγορῶν",
+      "dative": "ἀγοραῖς",
+      "accusative": "ἀγορᾶς",
+      "vocative": "ἀγοραί"
+    }
+
+}

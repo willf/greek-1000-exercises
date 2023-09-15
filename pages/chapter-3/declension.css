@@ -1,0 +1,98 @@
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  font: 36px/1.5 Helvetica, Verdana, sans-serif;
+}
+
+.headword {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  font: 24px/1.5 Helvetica, Verdana, sans-serif;
+}
+
+/* Style for the p elements */
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 10px;
+  font: 18px/1.5 Helvetica, Verdana, sans-serif;
+}
+
+#create {
+  font-size: 24px;
+}
+
+/* Style for the quiz container */
+#quiz {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+/* Style for the question container */
+ {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Style for the question text */
+ h2 {
+  width: 300px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+/* Style for the answer input */
+ input[type="text"] {
+  width: 300px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+/* Style for the submit button */
+.button[type="submit"] {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Style for the correct answer */
+ .correct-answer {
+  color: green;
+  font-weight: bold;
+}
+
+/* Style for the incorrect answer */
+ .incorrect-answer {
+  color: red;
+  font-weight: bold;
+}
+
+ .almost-correct-answer {
+  color: orange;
+  font-weight: bold;
+}
+
+ .active-answer {
+  color: black;
+  font-weight: normal;
+}

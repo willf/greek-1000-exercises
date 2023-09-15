@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Declension Quiz</title>
+    <script src="declension.js"></script>
+    <link rel="stylesheet" type="text/css" href="declension.css" />
+  </head>
+  <body>
+    <h1>Declension Practice</h1>
+    <p>
+      Practice your declensions! Answers will be colored green if correct, red
+      if incorrect, and orange if correct except for case, accent, breathing
+      marks, or iota subscripts.
+    </p>
+
+    <p>Click the button to generate a new practice session.</p>
+
+    <button id="create-button">Γράφωμεν!</button>
+    <script>
+      const createButton = document.getElementById("create-button");
+      createButton.addEventListener("click", () => {
+        const practiceDiv = createPracticeDiv();
+        div = document.getElementById("practice-div");
+        div.appendChild(practiceDiv);
+      });
+    </script>
+    <div id="practice-div"></div>
+    <p>
+      Created with ❤️ by
+      <a href="https://github.com/willf/greek-1000-exercises">Will Fitzgerald</a
+      >.
+    </p>
+  </body>
+</html>

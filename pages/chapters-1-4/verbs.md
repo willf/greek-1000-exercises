@@ -35,7 +35,7 @@ Introduction to Greek, Cynthia W. Shelmerdine & Susan C. Shelmerdine, Third Edit
 |       | 3rd | βλάπτ·ει | He/she/it harms |
 | pl.   | 1st | βλάπτ·ομεν | We harm |
 |       | 2nd | βλάπτ·ετε | You (plural) harm |
-|       | 3rd | βλάπτ·οσιν | They harm |
+|       | 3rd | βλάπτ·ουσιν | They harm |
 
 | Number | Person | Form | Meaning |
 | --- | --- | --- | --- |
@@ -44,7 +44,7 @@ Introduction to Greek, Cynthia W. Shelmerdine & Susan C. Shelmerdine, Third Edit
 |       | 3rd | γράφ·ει | He/she/it writes |
 | pl.   | 1st | γράφ·ομεν | We write |
 |       | 2nd | γράφ·ετε | You (plural) write |
-|       | 3rd | γράφ·οσιν | They write |
+|       | 3rd | γράφ·ουσιν | They write |
 
 | Number | Person | Form | Meaning |
 | --- | --- | --- | --- |
@@ -53,7 +53,7 @@ Introduction to Greek, Cynthia W. Shelmerdine & Susan C. Shelmerdine, Third Edit
 |       | 3rd | διδάσκ·ει | He/she/it teaches |
 | pl.   | 1st | διδάσκ·ομεν | We teach |
 |       | 2nd | διδάσκ·ετε | You (plural) teach |
-|       | 3rd | διδάσκ·οσιν | They teach |
+|       | 3rd | διδάσκ·ουσιν | They teach |
 
 | Number | Person | Form | Meaning |
 | --- | --- | --- | --- |
@@ -62,7 +62,7 @@ Introduction to Greek, Cynthia W. Shelmerdine & Susan C. Shelmerdine, Third Edit
 |       | 3rd | διώκ·ει | He/she/it pursues |
 | pl.   | 1st | διώκ·ομεν | We pursue |
 |       | 2nd | διώκ·ετε | You (plural) pursue |
-|       | 3rd | διώκ·οσιν | They pursue |
+|       | 3rd | διώκ·ουσιν | They pursue |
 
 | Number | Person | Form | Meaning |
 | --- | --- | --- | --- |
@@ -71,7 +71,7 @@ Introduction to Greek, Cynthia W. Shelmerdine & Susan C. Shelmerdine, Third Edit
 |       | 3rd | θύ·ει | He/she/it sacrifices |
 | pl.   | 1st | θύ·ομεν | We sacrifice |
 |       | 2nd | θύ·ετε | You (plural) sacrifice |
-|       | 3rd | θύ·οσιν | They sacrifice |
+|       | 3rd | θύ·ουσιν | They sacrifice |
 
 | Number | Person | Form | Meaning |
 | --- | --- | --- | --- |
@@ -80,7 +80,7 @@ Introduction to Greek, Cynthia W. Shelmerdine & Susan C. Shelmerdine, Third Edit
 |       | 3rd | λύ·ει | He/she/it releases |
 | pl.   | 1st | λύ·ομεν | We release |
 |       | 2nd | λύ·ετε | You (plural) release |
-|       | 3rd | λύ·οσιν | They release |
+|       | 3rd | λύ·ουσιν | They release |
 
 | Number | Person | Form | Meaning |
 | --- | --- | --- | --- |
@@ -89,7 +89,7 @@ Introduction to Greek, Cynthia W. Shelmerdine & Susan C. Shelmerdine, Third Edit
 |       | 3rd | παύ·ει | He/she/it stops |
 | pl.   | 1st | παύ·ομεν | We stop |
 |       | 2nd | παύ·ετε | You (plural) stop |
-|       | 3rd | παύ·οσιν | They stop |
+|       | 3rd | παύ·ουσιν | They stop |
 
 | Number | Person | Form | Meaning |
 | --- | --- | --- | --- |
@@ -98,7 +98,7 @@ Introduction to Greek, Cynthia W. Shelmerdine & Susan C. Shelmerdine, Third Edit
 |       | 3rd | πείθ·ει | He/she/it persuades |
 | pl.   | 1st | πείθ·ομεν | We persuade |
 |       | 2nd | πείθ·ετε | You (plural) persuade |
-|       | 3rd | πείθ·οσιν | They persuade |
+|       | 3rd | πείθ·ουσιν | They persuade |
 
 | Number | Person | Form | Meaning |
 | --- | --- | --- | --- |
@@ -107,7 +107,7 @@ Introduction to Greek, Cynthia W. Shelmerdine & Susan C. Shelmerdine, Third Edit
 |       | 3rd | πέμπ·ει | He/she/it sends |
 | pl.   | 1st | πέμπ·ομεν | We send |
 |       | 2nd | πέμπ·ετε | You (plural) send |
-|       | 3rd | πέμπ·οσιν | They send |
+|       | 3rd | πέμπ·ουσιν | They send |
 
 | Number | Person | Form | Meaning |
 | --- | --- | --- | --- |
@@ -116,7 +116,7 @@ Introduction to Greek, Cynthia W. Shelmerdine & Susan C. Shelmerdine, Third Edit
 |       | 3rd | στρατεύ·ει | He/she/it marches |
 | pl.   | 1st | στρατεύ·ομεν | We march |
 |       | 2nd | στρατεύ·ετε | You (plural) march |
-|       | 3rd | στρατεύ·οσιν | They march |
+|       | 3rd | στρατεύ·ουσιν | They march |
 
 | Number | Person | Form | Meaning |
 | --- | --- | --- | --- |
@@ -125,7 +125,7 @@ Introduction to Greek, Cynthia W. Shelmerdine & Susan C. Shelmerdine, Third Edit
 |       | 3rd | σῴζ·ει | He/she/it saves |
 | pl.   | 1st | σῴζ·ομεν | We save |
 |       | 2nd | σῴζ·ετε | You (plural) save |
-|       | 3rd | σῴζ·οσιν | They save |
+|       | 3rd | σῴζ·ουσιν | They save |
 
 
 ### Future Active Indicative

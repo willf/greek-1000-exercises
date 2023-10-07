@@ -1,0 +1,22 @@
+ἀδελφός; ἀδελφοῦ; ὁ,Brother
+βάρβαρος; βαρβάρου; ὁ,Foreigner/Non-Greek
+ὅπλον; ὅπλου; τὸ,Weapon
+ἀγαθός; ἀγαθή; ἀγαθόν,Good
+Ἀθηναῖος; Ἀθηναία; Ἀθηναῖον,Athenian
+δίκαιος; δίκαια; δίκαιον,Just
+κακός; κακή; κακόν,Bad
+καλός; καλή; καλόν,Beautiful
+μακρός; μακρά; μακρόν,Long; tall; great
+μικρός; μικρά; μικρόν,Small; little; short
+σοφός; σοφή; σοφόν,Wise
+χαλεπός; χαλεπή; χαλεπόν,Difficult; dangerous; harsh
+γάρ (postpos.),for; because
+και γάρ,for in fact
+μέν ( postpos.) ... δε,contrast
+ουδέ,and not; but not; nor; not even
+ούτε ... ούτε,neigher...nor
+τε ... και,both...and
+τε ... τε,both...and
+
+{"form":"ἀδελφός, ἀδελφοῦ, ὁ","translation":"brother","stem":"ἀδελφο","gender":"masculine","declensionType":"Second declension, masculine","singular":{"nominative":"ὁ ἀδελφός","genitive":"τοῦ ἀδελφοῦ","dative":"τῷ ἀδελφῷ","accusative":"τὸν ἀδελφόν","vocative":"ἀδελφέ"},"plural":{"nominative":"οἱ ἀδελφοί","genitive":"τῶν ἀδελφῶν","dative":"τοῖς ἀδελφοῖς","accusative":"τοὺς ἀδελφούς","vocative":"ἀδελφοί"}}
+{"form":"βάρβαρος, βαρβάρου, ὁ","translation":"foreigner, barbarian","stem":"βάρβαρο","gender":"masculine","declensionType":"Second declension, masculine","singular":{"nominative":"ὁ βάρβαρος","genitive":"τοῦ βαρβάρου","dative":"τῷ βαρβάρῳ","accusative":"τὸν βάρβαρον","vocative":"βάρβαρε"},"plural":{"nominative":"οἱ βάρβαροι","genitive":"τῶν βαρβάρων","dative":"τοῖς βαρβάροις","accusative":"τοὺς βαρβάρους","vocative":"βάρβαροι"}}

@@ -1,0 +1,34 @@
+Verbs : 
+βασιλεύω , βασιλεύσω , εβασίλευσα ( + gen . ) 
+λέγω , λέξω , έλεξα / είπον 
+λείπω , λείψω , έλιπον 
+πιστεύω , πιστεύσω , επίστευσα ( + dat . ) 
+πράττω , πράξω , έπραξα ευ πράττω κακώς πράττω 
+φεύγω , φεύξομαι , έφυγαν 
+φυλάττω , φυλάξω , εφύλαξα 
+
+Nouns : 
+βίος , βίου , ο 
+ημέρα , ημέρας , η 
+θάνατος , θανάτου , ο 
+πόλεμος , πολέμου , ο 
+στρατηγός , στρατηγού , ο 
+
+Pronoun : τίς , τι 
+
+Adverbs : ευ κακώς 
+Prepositions : : διά ( + gen . ) ( + acc . ) 
+μετά ( + gen . ) ( + acc . ) 
+περί ( + gen . ) ( + acc . )
+
+I am a beginning student of Attic Greek. You are acting as my tutor. You will drill me on the various forms of nouns. For example, you will prompt me with "Give me the case, number, and gender of τους ἵππους", and I will reply "accusative plural masculine" and you will say "Correct!" or some other encouraging note. Or you will prompt me with "Give me the case, number, and gender of τα παντα", and I will reply, "nominative singular feminine" and you will say, "No, the correct answer is 'Nominative plural neuter'". Although I have not been careful with accents and breath marks, I want you to be.
+
+Here is a list of the nouns I want to practice with. In your prompts, please include an article, except for the vocative. Give both singular and plural prompts randomly. Choose the words and cases at random.
+ 
+βίος , βίου , ο 
+ημέρα , ημέρας , η 
+θάνατος , θανάτου , ο 
+πόλεμος , πολέμου , ο 
+στρατηγός , στρατηγού , ο 
+
+Ok, take a deep breath, and start quizzing me. Give me an prompt, wait for my answer, and respond. And then keep repeating.

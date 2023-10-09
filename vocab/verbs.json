@@ -15,3 +15,9 @@
 {"pp1": "πράττω", "pp2": "πράξω", "pp3": "ἔπραξα", "meaning": "do, accomplish", "chapter": 5}
 {"pp1": "φεύγω", "pp2": "φεύξομαι", "pp3": "ἔφυγον", "meaning": "flee, escape", "chapter": 5}
 {"pp1": "φυλάττω", "pp2": "φυλάξω", "pp3": "ἐφύλαξα", "meaning": "guard, protect", "chapter": 5}
+{"pp1": "ἄγω", "pp2": "ἄξω", "pp3": "ἤγαγον", "meaning": "lead, bring", "chapter": 7}
+{"pp1": "εἰμί", "pp2": "ἔσθμαι (present enc. excep 2 sg imperf. ἦν", "pp3": "", "meaning": "be", "chapter": 7)
+{"pp1": "'ἔχω", "pp2": "ἔξω/σχήσω, ἔσχον (impf. εἶχον", "pp3": "have", "meaning": "", "chapter": 7}
+{"pp1": "λαμβάνω", "pp2": "λήψομαι", "pp3": "ἔλαβον", "meaning": "take, seize, receive", "chapter": 7}
+{"pp1": "ὀνομάξω", "pp2": "ὀνομάσω", "pp3": "ὠνὀμασα", "meaning": "name, call by name, call X and X (2 acc)", "chapter": 7}
+{"pp1": "φέρω", "pp2": "οἴσω", "pp3": "ὠωὀμασα", "meaning": "carry, bear, bring", "chapter": 7}

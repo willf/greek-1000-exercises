@@ -1,0 +1,36 @@
+---
+- form: ἀεί
+  translation: always
+  chapter: 4
+- form: καί
+  translation: also, too, even
+  chapter: 4
+- form: νῦν
+  translation: now
+  chapter: 4
+- form: ου
+  translation: not
+  notes: used for all statements and questions except deliberative questions
+  chapter: 4
+- form: οὐ
+  translation: not
+  notes: used for all statements and questions except deliberative questions
+  chapter: 4
+- form: οὐκ
+  translation: not
+  notes: before a smooth breathing
+  chapter: 4
+- form: οὐχ
+  translation: not
+  notes: before a rough breathing
+  chapter: 4
+- form: οὔ
+  translation: not
+  notes: before a punctuation mark
+  chapter: 4
+- form: εὔ
+  translation: well
+  chapter: 5
+- form: κακῶς
+  translation: badly
+  chapter: 5

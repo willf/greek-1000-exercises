@@ -1,0 +1,33 @@
+---
+- form: τίς
+  translation: who?
+  declensionType: Interrogative pronoun
+  gender: human
+  forms:
+    singular:
+      nominative: τίς
+      genitive: τίνος
+      dative: τίνι
+      accusative: τίνα
+    plural:
+      nominative: τίνες
+      genitive: τίνων
+      dative: τίσιν
+      accusative: τίνας
+  chapter: 8
+- form: τί
+  translation: what?
+  declensionType: Interrogative pronoun
+  gender: non-human
+  forms:
+    singular:
+      nominative: τί
+      genitive: τίνος
+      dative: τίνι
+      accusative: τί
+    plural:
+      nominative: τίνα
+      genitive: τίνων
+      dative: τίσιν
+      accusative: τίνα
+  chapter: 8

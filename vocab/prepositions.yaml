@@ -1,0 +1,54 @@
+---
+- form: ἀπό
+  meaning: from, away from, of
+  governs: genitive
+  chapter: 4
+- form: εἰς
+  meaning: into, onto
+  governs: accusative
+  chapter: 4
+- form: ἐκ
+  meaning: out of, from
+  governs: genitive
+  notes: ἐξ before a vowel
+  chapter: 4
+- form: ἐν
+  meaning: in, on; (plural) among
+  governs: dative
+  chapter: 4
+- form: πρὀς
+  meaning: from; on the side of; in favor of
+  governs: genitive
+  chapter: 4
+- form: πρὀς
+  meaning: near, at; in addition to
+  governs: dative
+  chapter: 4
+- form: πρὀς
+  meaning: to, toward; in relation to
+  governs: accusative
+  chapter: 4
+- form: διἀ
+  meaning: through
+  governs: genitive
+  chapter: 5
+- form: διἀ
+  meaning: because of, on account of
+  governs: accusative
+  chapter: 5
+- form: μετά
+  meaning: with
+  governs: genitive
+  chapter: 5
+- form: μετά
+  meaning: afterf
+  governs: accusative
+  chapter: 5
+- form: περί
+  meaning: about, concerning
+  governs: genitive
+  chapter: 5
+- form: περί
+  meaning: around
+  governs: accusative
+  chapter: 5

@@ -575,3 +575,147 @@
     accusative: τὰ ὅπλα
     vocative: ὅπλα
   chapter: 6
+- form: Ἕλλην, Ἕλληνος, ο
+  translation: Greek
+  stem: Ἕλλην
+  gender: masculine
+  declensionType: Second declension, masculine
+  singular:
+    nominative: ὁ Ἕλλην
+    genitive: τοῦ Ἕλληνος
+    dative: τῷ Ἕλληνι
+    accusative: τὸν Ἕλληνα
+    vocative: Ἕλλην
+  plural:
+    nominative: οἱ Ἕλληνες
+    genitive: τῶν Ἕλληνων
+    dative: τοῖς Ἕλλησι(ν)
+    accusative: τοὺς Ἕλληνας
+    vocative: Ἕλληνες
+  chapter: 7
+- form: ἡγεμών, ἡγεμόνος, ο
+  translation: leader
+  stem: ἡγεμών
+  gender: masculine
+  declensionType: Third declension, masculine
+  singular:
+    nominative: ὁ ἡγεμών
+    genitive: τοῦ ἡγεμόνος
+    dative: τῷ ἡγεμόνι
+    accusative: τὸν ἡγεμόνα
+    vocative: ἡγεμῶν
+  plural:
+    nominative: οἱ ἡγεμόνες
+    genitive: τῶν ἡγεμόνων
+    dative: τοῖς ἡγεμόσιν
+    accusative: τοὺς ἡγεμόνας
+    vocative: ἡγεμόνες
+  chapter: 7
+- form: κήρυξ, κήρυκος, ο
+  translation: herald
+  stem: κήρυκ
+  gender: masculine
+  declensionType: Third declension, masculine
+  singular:
+    nominative: ὁ κήρυξ
+    genitive: τοῦ κήρυκος
+    dative: τῷ κήρυκι
+    accusative: τὸν κῆρυκα
+    vocative: κῆρυξ
+  plural:
+    nominative: οἱ κῆρυκες
+    genitive: τῶν κηρύκων
+    dative: τοῖς κήρυξι
+    accusative: τοὺς κηρύκας
+    vocative: κῆρυκες
+  chapter: 7
+- form: ὄνομα, ὀνόματος, τὸ
+  translation: name
+  stem: ὄνομα
+  gender: neuter
+  declensionType: Third declension, neuter
+  singular:
+    nominative: τὸ ὄνομα
+    genitive: τοῦ ὀνόματος
+    dative: τῷ ὀνόματι
+    accusative: τὸ ὄνομα
+    vocative: ὄνομα
+  plural:
+    nominative: τὰ ὀνόματα
+    genitive: τῶν ὀνομάτων
+    dative: τοῖς ὀνόμασιν
+    accusative: τὰ ὀνόματα
+    vocative: ὀνόματα
+  chapter: 7
+- form: πατρίς, πατρίδος, ἡ
+  translation: fatherland
+  stem: πατρίδ
+  gender: feminine
+  declensionType: Third declension, feminine
+  singular:
+    nominative: ἡ πατρίς
+    genitive: τῆς πατρίδος
+    dative: τῇ πατρίδι
+    accusative: τὴν πατρίδα
+    vocative: πατρίς
+  plural:
+    nominative: αἱ πατρίδες
+    genitive: τῶν πατρίδων
+    dative: ταῖς πατρίσι
+    accusative: τὰς πατρίδας
+    vocative: πατρίδες
+  chapter: 7
+- form: πρᾶγμα, πράγματος, τὸ
+  translation: thing, matter, act; (pl.) circumstances
+  stem: πρᾶγμα
+  gender: neuter
+  declensionType: Third declension, neuter
+  singular:
+    nominative: τὸ πρᾶγμα
+    genitive: τοῦ πράγματος
+    dative: τῷ πράγματι
+    accusative: τὸ πρᾶγμα
+    vocative: πρᾶγμα
+  plural:
+    nominative: τὰ πράγματα
+    genitive: τῶν πραγμάτων
+    dative: τοῖς πράγμασι
+    accusative: τὰ πράγματα
+    vocative: πράγματα
+  chapter: 7
+- form: ὕδωρ, ὕδατος, τὸ
+  translation: water
+  stem: ὕδωρ
+  gender: neuter
+  declensionType: Third declension, neuter
+  singular:
+    nominative: τὸ ὕδωρ
+    genitive: τοῦ ὕδατος
+    dative: τῷ ὕδατι
+    accusative: τὸ ὕδωρ
+    vocative: ὕδωρ
+  plural:
+    nominative: τὰ ὕδατα
+    genitive: τῶν ὑδάτων
+    dative: τοῖς ὕδασι
+    accusative: τὰ ὕδατα
+    vocative: ὕδατα
+  chapter: 7
+- form: φύλαξ, φύλακος, ο
+  translation: guard
+  stem: φύλακ
+  gender: masculine
+  declensionType: Third declension, masculine
+  singular:
+    nominative: ὁ φύλαξ
+    genitive: τοῦ φύλακος
+    dative: τῷ φύλακι
+    accusative: τὸν φύλακα
+    vocative: φύλαξ
+  plural:
+    nominative: οἱ φύλακες
+    genitive: τῶν φυλάκων
+    dative: τοῖς φύλαξι
+    accusative: τοὺς φύλακας
+    vocative: φύλακες
+  chapter: 7

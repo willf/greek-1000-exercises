@@ -1,23 +1,23 @@
-{"pp1":"βλάπτω","pp2":"βλάψω","pp3":"ἔβλαψα","meaning":"harm, injure, damage","chapter":2}
-{"pp1":"γράφω","pp2":"γράψω","pp3":"ἔγραψα","meaning":"write","chapter":2}
-{"pp1":"διδάσκω","pp2":"διδάξω","pp3":"ἐδίδαξα","meaning":"teach","chapter":2}
-{"pp1":"διώκω","pp2":"διώξω","pp3":"ἔδίωξα","meaning":"pursue","chapter":2}
-{"pp1":"θύω","pp2":"θύσω","pp3":"ἔθυσα","meaning":"sacrifice, make a sacrifice","chapter":2}
-{"pp1":"λύω","pp2":"λύσω","pp3":"ἔλυσα","meaning":"release, set free; undo, destroy","chapter":2}
-{"pp1":"παύω","pp2":"παύσω","pp3":"ἔπαυσα","meaning":"stop","chapter":2}
-{"pp1":"πείθω","pp2":"πείσω","pp3":"ἔπεισα","meaning":"persuade","chapter":2}
-{"pp1":"πέμπω","pp2":"πέμψω","pp3":"ἔπεμψα","meaning":"send","chapter":2}
-{"pp1":"στρατεύω","pp2":"στρατεύσω","pp3":"ἐστράτευσα","meaning":"march; wage war","chapter":2}
-{"pp1":"σῴζω","pp2":"σώσω","pp3":"ἔσωσα","meaning":"save","chapter":2}
-{"pp1":"βασιλεύω","pp2":"βασιλεύσω","pp3":"ἐβασίλευσα","meaning":"reign, rule","chapter":5}
-{"pp1":"λέγω","pp2":"ἐρῶ","pp3":"εἶπον","meaning":"say, speak","chapter":5}
-{"pp1":"λείπω","pp2":"λείψω","pp3":"ἔλιπον","meaning":"leave, depart","chapter":5}
-{"pp1":"πράττω","pp2":"πράξω","pp3":"ἔπραξα","meaning":"do, accomplish","chapter":5}
-{"pp1":"φεύγω","pp2":"φεύξομαι","pp3":"ἔφυγον","meaning":"flee, escape","chapter":5}
-{"pp1":"φυλάττω","pp2":"φυλάξω","pp3":"ἐφύλαξα","meaning":"guard, protect","chapter":5}
-{"pp1":"ἄγω","pp2":"ἄξω","pp3":"ἤγαγον","meaning":"lead, bring","chapter":7}
-{"pp1":"εἰμί","pp2":"ἔσθμαι (present enc. excep 2 sg imperf. ἦν","pp3":"","meaning":"be","chapter":7}
-{"pp1":"'ἔχω","pp2":"ἔξω/σχήσω, ἔσχον (impf. εἶχον","pp3":"have","meaning":"","chapter":7}
-{"pp1":"λαμβάνω","pp2":"λήψομαι","pp3":"ἔλαβον","meaning":"take, seize, receive","chapter":7}
-{"pp1":"ὀνομάξω","pp2":"ὀνομάσω","pp3":"ὠνὀμασα","meaning":"name, call by name, call X and X (2 acc)","chapter":7}
-{"pp1":"φέρω","pp2":"οἴσω","pp3":"ὠωὀμασα","meaning":"carry, bear, bring","chapter":7}
+{"form":"βλάπτω, βλάψω, ἔβλαψα","translation":"harm, injure, damage","pp1":"βλάπτω","pp2":"βλάψω","pp3":"ἔβλαψα","chapter":2}
+{"form":"γράφω, γράψω, ἔγραψα","translation":"write","pp1":"γράφω","pp2":"γράψω","pp3":"ἔγραψα","chapter":2}
+{"form":"διδάσκω, διδάξω, ἐδίδαξα","translation":"teach","pp1":"διδάσκω","pp2":"διδάξω","pp3":"ἐδίδαξα","chapter":2}
+{"form":"διώκω, διώξω, ἔδίωξα","translation":"pursue","pp1":"διώκω","pp2":"διώξω","pp3":"ἔδίωξα","chapter":2}
+{"form":"θύω, θύσω, ἔθυσα","translation":"sacrifice, make a sacrifice","pp1":"θύω","pp2":"θύσω","pp3":"ἔθυσα","chapter":2}
+{"form":"λύω, λύσω, ἔλυσα","translation":"release, set free; undo, destroy","pp1":"λύω","pp2":"λύσω","pp3":"ἔλυσα","chapter":2}
+{"form":"παύω, παύσω, ἔπαυσα","translation":"stop","pp1":"παύω","pp2":"παύσω","pp3":"ἔπαυσα","chapter":2}
+{"form":"πείθω, πείσω, ἔπεισα","translation":"persuade","pp1":"πείθω","pp2":"πείσω","pp3":"ἔπεισα","chapter":2}
+{"form":"πέμπω, πέμψω, ἔπεμψα","translation":"send","pp1":"πέμπω","pp2":"πέμψω","pp3":"ἔπεμψα","chapter":2}
+{"form":"στρατεύω, στρατεύσω, ἐστράτευσα","translation":"march; wage war","pp1":"στρατεύω","pp2":"στρατεύσω","pp3":"ἐστράτευσα","chapter":2}
+{"form":"σῴζω, σώσω, ἔσωσα","translation":"save","pp1":"σῴζω","pp2":"σώσω","pp3":"ἔσωσα","chapter":2}
+{"form":"βασιλεύω, βασιλεύσω, ἐβασίλευσα","translation":"reign, rule","pp1":"βασιλεύω","pp2":"βασιλεύσω","pp3":"ἐβασίλευσα","chapter":5}
+{"form":"λέγω, ἐρῶ, εἶπον","translation":"say, speak","pp1":"λέγω","pp2":"ἐρῶ","pp3":"εἶπον","chapter":5}
+{"form":"λείπω, λείψω, ἔλιπον","translation":"leave, depart","pp1":"λείπω","pp2":"λείψω","pp3":"ἔλιπον","chapter":5}
+{"form":"πράττω, πράξω, ἔπραξα","translation":"do, accomplish","pp1":"πράττω","pp2":"πράξω","pp3":"ἔπραξα","chapter":5}
+{"form":"φεύγω, φεύξομαι, ἔφυγον","translation":"flee, escape","pp1":"φεύγω","pp2":"φεύξομαι","pp3":"ἔφυγον","chapter":5}
+{"form":"φυλάττω, φυλάξω, ἐφύλαξα","translation":"guard, protect","pp1":"φυλάττω","pp2":"φυλάξω","pp3":"ἐφύλαξα","chapter":5}
+{"form":"ἄγω, ἄξω, ἤγαγον","translation":"lead, bring","pp1":"ἄγω","pp2":"ἄξω","pp3":"ἤγαγον","chapter":7}
+{"form":"εἰμί, ἔσθμαι (present enc. excep 2 sg imperf. ἦν, ","translation":"be","pp1":"εἰμί","pp2":"ἔσθμαι (present enc. excep 2 sg imperf. ἦν","pp3":"","chapter":7}
+{"form":"'ἔχω, ἔξω/σχήσω, ἔσχον (impf. εἶχον, have","translation":"","pp1":"'ἔχω","pp2":"ἔξω/σχήσω, ἔσχον (impf. εἶχον","pp3":"have","chapter":7}
+{"form":"λαμβάνω, λήψομαι, ἔλαβον","translation":"take, seize, receive","pp1":"λαμβάνω","pp2":"λήψομαι","pp3":"ἔλαβον","chapter":7}
+{"form":"ὀνομάξω, ὀνομάσω, ὠνὀμασα","translation":"name, call by name, call X and X (2 acc)","pp1":"ὀνομάξω","pp2":"ὀνομάσω","pp3":"ὠνὀμασα","chapter":7}
+{"form":"φέρω, οἴσω, ὠωὀμασα","translation":"carry, bear, bring","pp1":"φέρω","pp2":"οἴσω","pp3":"ὠωὀμασα","chapter":7}

@@ -1,12 +1,15 @@
-{"form": "ἀεί", "translation": "always", "chapter": 4}
-{"form": "καί", "translation": "also, too, even", "chapter": 4}
-{"form": "νῦν", "translation": "now", "chapter": 4}
-{"form": "ου", "translation": "not", "notes": "used for all statements and questions except deliberative questions", "chapter": 4}
-{"form": "οὐ", "translation": "not", "notes": "used for all statements and questions except deliberative questions", "chapter": 4}
-{"form": "οὐκ", "translation": "not", "notes": "before a smooth breathing", "chapter": 4}
-{"form": "οὐχ", "translation": "not", "notes": "before a rough breathing", "chapter": 4}
-{"form": "οὔ", "translation": "not", "notes": "before a punctuation mark", "chapter": 4}
-{"form": "εὔ", "translation": "well", "chapter": 5}
-{"form": "κακῶς", "translation": "badly", "chapter": 5}
-{"form": "σὖν", "translation": "so, therefor, in fact", "notes": "postpositive", "chapter": 7}
-{"form": "τότε", "translation": "then, at that time", "chapter": 7}
+{"form": "ἀεί", "translation": "always", "chapter": 4, "pos":"adverb"}
+{"form": "καί", "translation": "also, too, even", "chapter": 4, "pos":"adverb"}
+{"form": "νῦν", "translation": "now", "chapter": 4, "pos":"adverb"}
+{"form": "ου", "translation": "not", "notes": "used for all statements and questions except deliberative questions", "chapter": 4, "pos":"adverb"}
+{"form": "οὐ", "translation": "not", "notes": "used for all statements and questions except deliberative questions", "chapter": 4, "pos":"adverb"}
+{"form": "οὐκ", "translation": "not", "notes": "before a smooth breathing", "chapter": 4, "pos":"adverb"}
+{"form": "οὐχ", "translation": "not", "notes": "before a rough breathing", "chapter": 4, "pos":"adverb"}
+{"form": "οὔ", "translation": "not", "notes": "before a punctuation mark", "chapter": 4, "pos":"adverb"}
+{"form": "εὔ", "translation": "well", "chapter": 5, "pos":"adverb"}
+{"form": "κακῶς", "translation": "badly", "chapter": 5, "pos":"adverb"}
+{"form": "σὖν", "translation": "so, therefor, in fact", "notes": "postpositive", "chapter": 7, "pos":"adverb"}
+{"form": "τότε", "translation": "then, at that time", "chapter": 7, "pos":"adverb"}
+{"form": "μή", "translation": "not", "notes": "used for all commands, exhortations, and wishes, with most infinitives, etc", "chapter": 8, "pos":"adverb"}
+{"form": "πάλιν", "translation": "back; again", "chapter": 8, "pos":"adverb"}
+{"form": "τοτἐ", "translation": "at some time, ever, in the world", "notes": "enclitic", "chapter": 8, "pos":"adverb"}

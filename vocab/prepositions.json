@@ -1,14 +1,14 @@
-{"form": "ἀπό", "translation": "from, away from, of", "governs": "genitive", "chapter": 4}
-{"form": "εἰς", "translation": "into, onto", "governs": "accusative", "chapter": 4}
-{"form": "ἐκ", "translation": "out of, from", "governs": "genitive", "notes": "ἐξ before a vowel", "chapter": 4}
-{"form": "ἐν", "translation": "in, on; (plural) among", "governs": "dative", "chapter": 4}
-{"form": "πρὀς", "translation": "from; on the side of; in favor of", "governs": "genitive", "chapter": 4}
-{"form": "πρὀς", "translation": "near, at; in addition to", "governs": "dative", "chapter": 4}
-{"form": "πρὀς", "translation": "to, toward; in relation to", "governs": "accusative", "chapter": 4}
-{"form": "διἀ", "translation": "through", "governs": "genitive", "chapter": 5}
-{"form": "διἀ", "translation": "because of, on account of", "governs": "accusative", "chapter": 5}
-{"form": "μετά", "translation": "with", "governs": "genitive", "chapter": 5}
-{"form": "μετά", "translation": "afterf", "governs": "accusative", "chapter": 5}
-{"form": "περί", "translation": "about, concerning", "governs": "genitive", "chapter": 5}
-{"form": "περί", "translation": "around", "governs": "accusative", "chapter": 5}
-{"form": "σὖν", "translation": "with", "chapter": 7}
+{"form": "ἀπό", "translation": "from, away from, of", "governs": "genitive", "chapter": 4, "pos":"preposition"}
+{"form": "εἰς", "translation": "into, onto", "governs": "accusative", "chapter": 4, "pos":"preposition"}
+{"form": "ἐκ", "translation": "out of, from", "governs": "genitive", "notes": "ἐξ before a vowel", "chapter": 4, "pos":"preposition"}
+{"form": "ἐν", "translation": "in, on; (plural) among", "governs": "dative", "chapter": 4, "pos":"preposition"}
+{"form": "πρὀς", "translation": "from; on the side of; in favor of", "governs": "genitive", "chapter": 4, "pos":"preposition"}
+{"form": "πρὀς", "translation": "near, at; in addition to", "governs": "dative", "chapter": 4, "pos":"preposition"}
+{"form": "πρὀς", "translation": "to, toward; in relation to", "governs": "accusative", "chapter": 4, "pos":"preposition"}
+{"form": "διἀ", "translation": "through", "governs": "genitive", "chapter": 5, "pos":"preposition"}
+{"form": "διἀ", "translation": "because of, on account of", "governs": "accusative", "chapter": 5, "pos":"preposition"}
+{"form": "μετά", "translation": "with", "governs": "genitive", "chapter": 5, "pos":"preposition"}
+{"form": "μετά", "translation": "after", "governs": "accusative", "chapter": 5, "pos":"preposition"}
+{"form": "περί", "translation": "about, concerning", "governs": "genitive", "chapter": 5, "pos":"preposition"}
+{"form": "περί", "translation": "around", "governs": "accusative", "chapter": 5, "pos":"preposition"}
+{"form": "σὖν", "translation": "with", "chapter": 7, "pos":"preposition"}

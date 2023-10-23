@@ -1,0 +1,132 @@
+"pos","form","translation","notes","chapter"
+"adjective","σοφός, σοφή, σοφόν","wise",,6
+"adjective","ἀγαθός, ἀγαθή, ἀγαθόν","good",,6
+"adjective","Ἀθηναῖος, Ἀθηναίa, Ἀθηναίου","Athenian",,6
+"adjective","δίκαιος, δικαία, δίκαιον","just, righteous",,6
+"adjective","κακός, κακή, κακόν","bad, evil",,6
+"adjective","καλός, καλή, καλόν","beautiful, good",,6
+"adjective","μακρός, μακρά, μακρόν","long",,6
+"adjective","μικρός, μικρά, μικρόν","small, little",,6
+"adjective","δέκατος, δέκατη, δέκατον","tenth",,8
+"adjective","μέγας, μεγάλη, μέγα","great, large",,8
+"adjective","πᾶς, πᾶσα, πᾶν","every, all",,8
+"adjective","τάλας, τάλαινα, τάλαν","wretched, miserable, suffering",,8
+"adverb","ἀεί","always",,4
+"adverb","καί","also, too, even",,4
+"adverb","νῦν","now",,4
+"adverb","ου","not","used for all statements and questions except deliberative questions",4
+"adverb","οὐ","not","used for all statements and questions except deliberative questions",4
+"adverb","οὐκ","not","before a smooth breathing",4
+"adverb","οὐχ","not","before a rough breathing",4
+"adverb","οὔ","not","before a punctuation mark",4
+"adverb","εὔ","well",,5
+"adverb","κακῶς","badly",,5
+"adverb","σὖν","so, therefor, in fact","postpositive",7
+"adverb","τότε","then, at that time",,7
+"adverb","μή","not","used for all commands, exhortations, and wishes, with most infinitives, etc",8
+"adverb","πάλιν","back; again",,8
+"adverb","τοτἐ","at some time, ever, in the world","enclitic",8
+"conjunction","ἀλλά","but, however, nevertheless",,3
+"conjunction","δέ","and, but","postpos.",3
+"conjunction","ἤ","or",,3
+"conjunction","ἤ ... ἤ","either ... or",,3
+"conjunction","καί","and",,3
+"conjunction","καί ... καί","both ... and",,3
+"conjunction","γἀρ","for, because","postpos",6
+"conjunction","καί γάρ","for in fact",,6
+"conjunction","μέν","(contrast)","paired with δἐ to indicate contrast",6
+"conjunction","οὐδέ","and not, but not, not even",,6
+"conjunction","οὐδέ ... οὐδέ","neither ... nor",,6
+"conjunction","τε","and","enclitic",6
+"conjunction","τε ... καί","both ... and",,6
+"conjunction","τε ... τε","both ... and",,6
+"exclamation","ὦ","O!",,3
+"noun","ἀγορά, ἀγορᾶς, ἡ","marketplace",,3
+"noun","ἄνθρωπος, ἀνθρώπου, ὁ","man, human",,3
+"noun","δῶρον, δώρου, τό","gift",,3
+"noun","ἔργον, ἔργου, τό","work",,3
+"noun","θάλαττα, θαλάττης, ἡ","sea",,3
+"noun","θεά, θεᾶς, ἡ","goddess",,3
+"noun","θεός, θεοῦ, ὁ","god",,3
+"noun","ἵππος, ἵππου, ὁ","horse",,3
+"noun","κώμη, κώμης, ἡ","village",,3
+"noun","ξένος, ξένου, ὁ","stranger, guest",,3
+"noun","οἰκία, οἰκίας, ἡ","house",,3
+"noun","τέκνον, τέκνου, τό","child",,3
+"noun","τιμή, τιμῆς, ἡ","honor",,3
+"noun","φίλος, φίλου, ὁ","friend",,3
+"noun","ἀδελφός, ἀδελφοῦ, ὁ","brother",,3
+"noun","βάρβαρος, βαρβάρου, ὁ","foreigner, barbarian",,3
+"noun","Ἀθῆναι, Ἀθηνῶν, αἱ","Athens",,4
+"noun","λόγος, λόγου, ὁ","word",,4
+"noun","νεανίας, νεανίου, ὁ","youth",,4
+"noun","ὁδός, ὁδοῦ, ἡ","way, road",,4
+"noun","Πέρσης, Πέρσου, ὁ","Persian",,4
+"noun","πολίτης, πολίτου, ὁ","citizen",,4
+"noun","ποταμός, ποταμοῦ, ὁ","river",,4
+"noun","στρατιώτης, στρατιώτου, ὁ","soldier",,4
+"noun","χώρα, χώρας, ἡ","land, country",,4
+"noun","βίος, βίου, ὁ","life",,6
+"noun","ἡμέρα, ἡμέρας, ἡ","day",,5
+"noun","θάνατος, θανάτου, ὁ","death",,6
+"noun","στρατηγός, στρατηγοῦ, ὁ","general",,6
+"noun","ἀδελφός, ἀδελφοῦ, ὁ","brother",,6
+"noun","βάρβαρος, βαρβάρου, ὁ/ἡ","foreigner",,6
+"noun","ὅπλον, ὅπλου, τό","weapon",,6
+"noun","Ἕλλην, Ἕλληνος, ο","Greek",,7
+"noun","ἡγεμών, ἡγεμόνος, ο","leader",,7
+"noun","κήρυξ, κήρυκος, ο","herald",,7
+"noun","ὄνομα, ὀνόματος, τὸ","name",,7
+"noun","πατρίς, πατρίδος, ἡ","fatherland",,7
+"noun","πρᾶγμα, πράγματος, τὸ","thing, matter, act; (pl.) circumstances",,7
+"noun","ὕδωρ, ὕδατος, τὸ","water",,7
+"noun","φύλαξ, φύλακος, ο","guard",,7
+"noun","ἀρχή, ἀρχῆς, ἡ","rule; empire; province; beginning",,8
+"noun","ἄρχων, ἄρχοντος, ὁ","archon, ruler, leader",,8
+"noun","Ἐλλάς, Ἑλλάδος, ἡ","Greece",,8
+"noun","κάμηλος, καμήλου, ὁ","camel",,8
+"noun","ποιητής, ποιητοῦ, ὁ","poet",,8
+"preposition","ἀπό","from, away from, of",,4
+"preposition","εἰς","into, onto",,4
+"preposition","ἐκ","out of, from","ἐξ before a vowel",4
+"preposition","ἐν","in, on; (plural) among",,4
+"preposition","πρὀς","from; on the side of; in favor of",,4
+"preposition","πρὀς","near, at; in addition to",,4
+"preposition","πρὀς","to, toward; in relation to",,4
+"preposition","διἀ","through",,5
+"preposition","διἀ","because of, on account of",,5
+"preposition","μετά","with",,5
+"preposition","μετά","afterf",,5
+"preposition","περί","about, concerning",,5
+"preposition","περί","around",,5
+"preposition","σὖν","with",,7
+"pronoun","τίς","who?",,6
+"pronoun","τί","what?",,6
+"verb","βλάπτω, βλάψω, ἔβλαψα","harm, injure, damage",,2
+"verb","γράφω, γράψω, ἔγραψα","write",,2
+"verb","διδάσκω, διδάξω, ἐδίδαξα","teach",,2
+"verb","διώκω, διώξω, ἔδίωξα","pursue",,2
+"verb","θύω, θύσω, ἔθυσα","sacrifice, make a sacrifice",,2
+"verb","λύω, λύσω, ἔλυσα","release, set free; undo, destroy",,2
+"verb","παύω, παύσω, ἔπαυσα","stop",,2
+"verb","πείθω, πείσω, ἔπεισα","persuade",,2
+"verb","πέμπω, πέμψω, ἔπεμψα","send",,2
+"verb","στρατεύω, στρατεύσω, ἐστράτευσα","march; wage war",,2
+"verb","σῴζω, σώσω, ἔσωσα","save",,2
+"verb","βασιλεύω, βασιλεύσω, ἐβασίλευσα","reign, rule",,5
+"verb","λέγω, ἐρῶ, εἶπον","say, speak",,5
+"verb","λείπω, λείψω, ἔλιπον","leave, depart",,5
+"verb","πράττω, πράξω, ἔπραξα","do, accomplish",,5
+"verb","φεύγω, φεύξομαι, ἔφυγον","flee, escape",,5
+"verb","φυλάττω, φυλάξω, ἐφύλαξα","guard, protect",,5
+"verb","ἄγω, ἄξω, ἤγαγον","lead, bring",,7
+"verb","εἰμί, ἔσθμαι (present enc. excep 2 sg imperf. ἦν, ","be",,7
+"verb","'ἔχω, ἔξω/σχήσω, ἔσχον (impf. εἶχον, have","",,7
+"verb","λαμβάνω, λήψομαι, ἔλαβον","take, seize, receive",,7
+"verb","ὀνομάξω, ὀνομάσω, ὠνὀμασα","name, call by name, call X and X (2 acc)",,7
+"verb","φέρω, οἴσω, ὠωὀμασα","carry, bear, bring",,7
+"verb","ἄρχω, ἀρξομαι, ἦρξα","begin, command, rule",,8
+"verb","ἐθέλω, ἐθελήσομαι, ἠθέλησα","will, wish","Sometimes θέλω",8
+"verb","κελεύω, κελεύσω, ἐκέλευσα","command, order",,8
+"verb","μέλλω, μελλήσω, ἐμέλλησα","intend, be about to",,8
+"verb","οἷός τέ εἰμι","am such as",,8

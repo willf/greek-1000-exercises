@@ -1,2 +1,72 @@
 {"form":"τίς","translation":"who?","declensionType":"Interrogative pronoun","gender":"human","forms":{"singular":{"nominative":"τίς","genitive":"τίνος","dative":"τίνι","accusative":"τίνα"},"plural":{"nominative":"τίνες","genitive":"τίνων","dative":"τίσιν","accusative":"τίνας"}},"chapter":6, "pos":"pronoun"}
 {"form":"τί","translation":"what?","declensionType":"Interrogative pronoun","gender":"non-human","forms":{"singular":{"nominative":"τί","genitive":"τίνος","dative":"τίνι","accusative":"τί"},"plural":{"nominative":"τίνα","genitive":"τίνων","dative":"τίσιν","accusative":"τίνα"}},"chapter":6, "pos":"pronoun"}
+{"form":"αὐτός","translation":"he, him","declensionType":"Third person pronoun","gender":"masculine","forms":{"singular":{"nominative":"αὐτός","genitive":"αὐτοῦ","dative":"αὐτῷ","accusative":"αὐτόν"},"plural":{"nominative":"αὐτοί","genitive":"αὐτῶν","dative":"αὐτοῖς","accusative":"αὐτούς"}},"chapter":9,"pos":"pronoun"}
+{"form":"αὐτή","translation":"she, her","declensionType":"Third person pronoun","gender":"feminine","forms":{"singular":{"nominative":"αὐτή","genitive":"αὐτῆς","dative":"αὐτῇ","accusative":"αὐτήν"},"plural":{"nominative":"αὗται","genitive":"αὐτῶν","dative":"αὐταῖς","accusative":"αὐτάς"}},"chapter":9,"pos":"pronoun"}
+{"form":"αὐτό","translation":"it","declensionType":"Third person pronoun","gender":"neuter","forms":{"singular":{"nominative":"αὐτό","genitive":"αὐτοῦ","dative":"αὐτῷ","accusative":"αὐτό"},"plural":{"nominative":"αὐτά","genitive":"αὐτῶν","dative":"αὐτοῖς","accusative":"αὐτά"}},"chapter":9,"pos":"pronoun"}
+{"form":"ἐγώ","translation":"I, me","declensionType":"First person pronoun","gender":"non-applicable","forms":{"singular":{"nominative":"ἐγώ","genitive":"ἐμοῦ","dative":"ἐμοί","accusative":"ἐμέ"},"plural":{"nominative":"ἡμεῖς","genitive":"ἡμῶν","dative":"ἡμῖν","accusative":"ἡμᾶς"}},"chapter":9,"pos":"pronoun"}
+{"form":"ἡμεῖς","translation":"we, us","declensionType":"First person pronoun","gender":"non-applicable","forms":{"singular":{"nominative":"ἐγώ","genitive":"ἐμοῦ","dative":"ἐμοί","accusative":"ἐμέ"},"plural":{"nominative":"ἡμεῖς","genitive":"ἡμῶν","dative":"ἡμῖν","accusative":"ἡμᾶς"}},"chapter":9,"pos":"pronoun"}
+{"form":"σύ","translation":"you (singular)","declensionType":"Second person pronoun","gender":"non-applicable","forms":{"singular":{"nominative":"σύ","genitive":"σοῦ","dative":"σοί","accusative":"σέ"},"plural":{"nominative":"ὑμεῖς","genitive":"ὑμῶν","dative":"ὑμῖν","accusative":"ὑμᾶς"}},"chapter":9,"pos":"pronoun"}
+{"form":"ὑμεῖς","translation":"you (plural)","declensionType":"Second person pronoun","gender":"non-applicable","forms":{"singular":{"nominative":"σύ","genitive":"σοῦ","dative":"σοί","accusative":"σέ"},"plural":{"nominative":"ὑμεῖς","genitive":"ὑμῶν","dative":"ὑμῖν","accusative":"ὑμᾶς"}},"chapter":9,"pos":"pronoun"}
+{
+  "form":"οὐδείς",
+  "translation":"no one, nobody",
+  "gender":"masculine",
+  "declensionType":"Third declension",
+  "forms": {
+    "singular": {
+      "nominative":"οὐδείς",
+      "genitive":"οὐδενός",
+      "dative":"οὐδενί",
+      "accusative":"οὐδένα"
+    },
+    "plural": {
+      "nominative":"οὐδείς",
+      "genitive":"οὐδενῶν",
+      "dative":"οὐδενί",
+      "accusative":"οὐδένα"
+    }
+  },
+  "chapter":9,
+  "pos":"pronoun"
+}
+{
+  "form":"οὐδεμία",
+  "translation":"not any, none",
+  "gender":"feminine",
+  "declensionType":"First declension",
+  "forms": {
+    "singular": {
+      "nominative":"οὐδεμία",
+      "genitive":"οὐδεμίας",
+      "dative":"οὐδεμίᾳ",
+      "accusative":"οὐδεμίαν"
+    },
+    "plural": {
+      "nominative":"οὐδεμίαι",
+      "genitive":"οὐδεμιῶν",
+      "dative":"οὐδεμίαις",
+      "accusative":"οὐδεμίας"
+    }
+  },
+  "chapter":9,
+  "pos":"pronoun"
+}
+{
+  "form":"οὐδέν",
+  "translation":"nothing",
+  "gender":"neuter",
+  "declensionType":"Third declension",
+  "forms": {
+    "singular": {
+      "nominative":"οὐδέν",
+"genitive":"οὐδενός",
+"dative":"οὐδενί",
+"accusative":"οὐδέν"
+},
+"plural": {
+  "nominative":"οὐδέν",
+  "genitive":"οὐδενῶν",
+  "dative":"οὐδενί",
+  "accusative":"οὐδέν"
+}
+},"chapter":9,"pos":"pronoun"}

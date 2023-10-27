@@ -1,0 +1,42 @@
+#!/usr/bin/env python
+
+import json
+import sys
+
+
+def reverse_dictionary(json_obj):
+    reverse_dict = {}
+    gender = json_obj["gender"]
+    for number in ["singular", "plural"]:
+        for case, form in json_obj[number].items():
+            word = form.split(" ")[-1]
+            reverse_dict[word] = {"case": case, "number": number, "gender": gender}
+    return reverse_dict
+
+
+def convert_form(d):
+    kase = d["case"]
+    number = d["number"]
+    gender = d["gender"]
+    if number == "plural":
+        number = "pl"
+    else:
+        number = "sg"
+    kase = kase[0:3]
+    gender = gender[0:3]
+    return " ".join([kase, number, gender])
+
+
+# read jsonl from stdin, reverse, then write to stdout
+big = {}
+for line in sys.stdin:
+    json_obj = json.loads(line)
+    d0 = reverse_dictionary(json_obj)
+    for word, d in d0.items():
+        if word in big:
+            big[word].append(d)
+        else:
+            big[word] = [d]
+for word, d in big.items():
+    d0 = {"word": word, "forms": "; ".join([convert_form(x) for x in d])}
+    sys.stdout.buffer.write((json.dumps(d0, ensure_ascii=False) + "\n").encode("utf8"))

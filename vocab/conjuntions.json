@@ -12,3 +12,9 @@
 {"form": "τε", "translation": "and",  "notes": "enclitic", "chapter": 6, "pos":"conjunction"}
 {"form": "τε ... καί", "translation": "both ... and", "chapter": 6, "pos":"conjunction"}
 {"form": "τε ... τε", "translation": "both ... and", "chapter": 6, "pos":"conjunction"}
+{"form": "μηδέ", "translation": "and not, but not; nor; not even", "chapter": 9, "pos":"conjunction"}
+{"form": "μήτε ... μήτε", "translation": "neither ... nor", "chapter": 9, "pos":"conjunction"}
+{"form": "εἰ", "translation": "", "chapter": 10, "pos":"conjunction"}
+{"form": "ἐπεἰ῎ἐειδἠ", "translation": "if", "chapter": 10, "pos":"conjunction"}
+{"form": "ὄτε", "translation": "when, since, after", "chapter": 10, "pos":"conjunction"}
+{"form": "ὄτι", "translation": "when", "chapter": 10, "pos":"conjunction"}

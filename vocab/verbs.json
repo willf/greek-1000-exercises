@@ -26,3 +26,11 @@
 {"form":"κελεύω, κελεύσω, ἐκέλευσα","translation":"command, order","pp1":"κελεύω","pp2":"κελεύσω","pp3":"ἐκέλευσα","chapter":8, "pos":"verb"}
 {"form":"μέλλω, μελλήσω, ἐμέλλησα","translation":"intend, be about to","pp1":"μέλλω","pp2":"μελλήσω","pp3":"ἐμέλλησα","chapter":8, "pos":"verb"}
 {"form":"οἷός τέ εἰμι","translation":"am such as","pp1":"οἷός τέ εἰμι","pp2":"-","pp3":"","chapter":8, "pos":"verb"}
+{"form":"ἀκούω, ἀκούσω, ἤκουσα","translation":"listen","pp1":"ἀκούω","pp2":"ἀκούσω","pp3":"ἤκουσα","chapter":10,"pos":"verb"}
+{"form":"ἀποθνήσκω, ἀποθανοῦμαι, ἀπέθανον","translation":"die","pp1":"ἀποθνήσκω","pp2":"ἀποθανοῦμαι","pp3":"ἀπέθανον","chapter":10,"pos":"verb"}
+{"form":"θνήσκω, θανοῦμαι, ἔθανον","translation":"die","pp1":"θνήσκω","pp2":"θανοῦμαι","pp3":"ἔθανον","chapter":10,"pos":"verb"}
+{"form":"δράω, δράσω, ἔδρασα","translation":"do, act","pp1":"δράω","pp2":"δράσω","pp3":"ἔδρασα","chapter":10,"pos":"verb"}
+{"form":"ὁράω, ὄψομαι, εἶδον","translation":"see","pp1":"ὁράω","pp2":"ὄψομαι","pp3":"εἶδον","chapter":10,"pos":"verb"}
+{"form":"ποιέω, ποιήσω, ἐποίησα","translation":"make, do","pp1":"ποιέω","pp2":"ποιήσω","pp3":"ἐποίησα","chapter":10,"pos":"verb"}
+{"form":"τιμάω, τιμήσω, ἐτίμησα","translation":"honor","pp1":"τιμάω","pp2":"τιμήσω","pp3":"ἐτίμησα","chapter":10,"pos":"verb"}
+{"form":"φιλέω, φιλήσω, ἐφίλησα", "translation":"love","pp1":"φιλέω", "pp2":"φιλήσω", "pp3":"ἐφίλησα","chapter":10,"pos":"verb"}

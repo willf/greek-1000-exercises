@@ -71,6 +71,8 @@ def lookup_word(word):
     if r.status_code == 200:
         xml = r.text
         o = xmltodict.parse(xml)
+        o['betacode'] = beta_word
+        o['betacode_full'] = bc.uni_to_beta(word)
         jsons = json.dumps(o, ensure_ascii=False)
         return jsons
     else:

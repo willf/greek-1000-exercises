@@ -13,4 +13,6 @@
 {"form": "περί", "translation": "around", "governs": "accusative", "chapter": 5, "pos":"preposition"}
 {"form": "σὖν", "translation": "with", "chapter": 7, "pos":"preposition"}
 {"form": "κατά", "translation": "down from, down upon", "governs": "genitive", "chapter": 10, "pos":"preposition"}
-{"form": "κατά", "translation": "over, down along; according to;  against opposite", "governs": "accusative", "chapter": 10, "pos":"preposition", notes: "κατἀ γῆν by land; κατά θάλατταν by sea "}
+{"form": "ἐπί", "translation": "on, upon", "governs": "genitive", "chapter": 11, "pos": "preposition"}
+{"form": "ἐπί", "translation": "on, at, near", "governs": "dative", "chapter": 11, "pos": "preposition"}
+{"form": "ἐπί", "translation": "toward, against; upon, on to, up to", "governs": "accusative", "chapter": 11, "pos": "preposition"}

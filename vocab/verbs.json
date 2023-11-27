@@ -34,16 +34,6 @@
 {"form":"ποιέω, ποιήσω, ἐποίησα","translation":"make, do","pp1":"ποιέω","pp2":"ποιήσω","pp3":"ἐποίησα","chapter":10,"pos":"verb"}
 {"form":"τιμάω, τιμήσω, ἐτίμησα","translation":"honor","pp1":"τιμάω","pp2":"τιμήσω","pp3":"ἐτίμησα","chapter":10,"pos":"verb"}
 {"form":"φιλέω, φιλήσω, ἐφίλησα", "translation":"love","pp1":"φιλέω", "pp2":"φιλήσω", "pp3":"ἐφίλησα","chapter":10,"pos":"verb"}
-{"form":"ἀποκτείνω","translation":"I kill","stem":"ἀποκτεν","pos":"verb","singular":{"1st":"ἀποκτείνω","2nd":"ἀποκτείνεις","3rd":"ἀποκτείνει"},"plural":{"1st":"ἀποκτείνομεν","2nd":"ἀποκτείνετε","3rd":"ἀποκτείνουσι"},"chapter":11}
-{"form":"βάλλω","translation":"I throw","stem":"βαλ","pos":"verb","singular":{"1st":"βάλλω","2nd":"βάλλεις","3rd":"βάλλει"},"plural":{"1st":"βάλλομεν","2nd":"βάλλετε","3rd":"βάλλουσι"},"chapter":11}
-{"form":"εἰσβάλλω","translation":"I throw in","stem":"εἰσβαλ","pos":"verb","singular":{"1st":"εἰσβάλλω","2nd":"εἰσβάλλεις","3rd":"εἰσβάλλει"},"plural":{"1st":"εἰσβάλλομεν","2nd":"εἰσβάλλετε","3rd":"εἰσβάλλουσι"},"chapter":11}
-{"form":"πεπιβάλλω","translation":"I impose","stem":"πεπιβαλ","pos":"verb","singular":{"1st":"πεπιβάλλω","2nd":"πεπιβάλλεις","3rd":"πεπιβάλλει"},"plural":{"1st":"πεπιβάλλομεν","2nd":"πεπιβάλλετε","3rd":"πεπιβάλλουσι"},"chapter":11}
-{"form":"βοηθέω","translation":"I help","stem":"βοηθε","pos":"verb","singular":{"1st":"βοηθέω","2nd":"βοηθεῖς","3rd":"βοηθεῖ"},"plural":{"1st":"βοηθοῦμεν","2nd":"βοηθεῖτε","3rd":"βοηθοῦσι"},"chapter":11}
-{"form":"βουλέω","translation":"I wish, I want","stem":"βουλε","pos":"verb","singular":{"1st":"βουλέω","2nd":"βουλεῖς","3rd":"βουλεῖ"},"plural":{"1st":"βουλόμεθα","2nd":"βουλεῖτε","3rd":"βουλοῦσι"},"chapter":11}
-{"form":"συμβουλέω","translation":"I advise","stem":"συμβουλε","pos":"verb","singular":{"1st":"συμβουλέω","2nd":"συμβουλεῖς","3rd":"συμβουλεῖ"},"plural":{"1st":"συμβουλόμεθα","2nd":"συμβουλεῖτε","3rd":"συμβουλοῦσι"},"chapter":11}
-{"form":"διαφθείρω","translation":"I destroy","stem":"διαφθερ","pos":"verb","singular":{"1st":"διαφθείρω","2nd":"διαφθείρεις","3rd":"διαφθείρει"},"plural":{"1st":"διαφθείρομεν","2nd":"διαφθείρετε","3rd":"διαφθείρουσι"},"chapter":11}
-{"form":"μένω","translation":"I stay","stem":"μεν","pos":"verb","singular":{"1st":"μένω","2nd":"μένεις","3rd":"μένει"},"plural":{"1st":"μένομεν","2nd":"μένετε","3rd":"μένουσι"},"chapter":11}
-{"form":"νικάω","translation":"I conquer","stem":"νικα","pos":"verb","singular":{"1st":"νικάω","2nd":"νικᾷς","3rd":"νικᾷ"},"plural":{"1st":"νικῶμεν","2nd":"νικᾶτε","3rd":"νικῶσι"},"chapter":11}
 {"form":"ἀποκτείνω, ἀποκτενῶ, ἀπέκτεινα","translation":"I kill","pp1":"ἀποκτείνω","pp2":"ἀποκτενῶ","pp3":"ἀπέκτεινα","chapter":11, "pos":"verb"}
 {"form":"βάλλω, βαλῶ, ἔβαλον","translation":"I throw","pp1":"βάλλω","pp2":"βαλῶ","pp3":"ἔβαλον","chapter":11, "pos":"verb"}
 {"form":"εἰσβάλλω, εἰσβαλῶ, εἰσέβαλον","translation":"I throw in","pp1":"εἰσβάλλω","pp2":"εἰσβαλῶ","pp3":"εἰσέβαλον","chapter":11, "pos":"verb"}
@@ -54,3 +44,11 @@
 {"form":"διαφθείρω, διαφθερῶ, διέφθειρα","translation":"I destroy","pp1":"διαφθείρω","pp2":"διαφθερῶ","pp3":"διέφθειρα","chapter":11, "pos":"verb"}
 {"form":"μένω, μενῶ, ἔμεινα","translation":"I stay","pp1":"μένω","pp2":"μενῶ","pp3":"ἔμεινα","chapter":11, "pos":"verb"}
 {"form":"νικάω, νικήσω, ἐνίκησα","translation":"I conquer","pp1":"νικάω","pp2":"νικήσω","pp3":"ἐνίκησα","chapter":11, "pos":"verb"}
+{"form":"βοὐλομαι, βουλήσομαι, ἐβουλήθην","translation":"I want","pp1":"βοὐλομαι","pp2":"βουλήσομαι","pp3":"ἐβουλήθην","chapter":12, "pos":"verb"}
+{"form":"γίγνομαι, γενήσομαι, ἐγενόμην","translation":"I become","pp1":"γίγνομαι","pp2":"γενήσομαι","pp3":"ἐγενόμην","chapter":12, "pos":"verb"}
+{"form":"ἐλπίζω, ἐλπίσω, ἤλπισα","translation":"I hope","pp1":"ἐλπίζω","pp2":"ἐλπίσω","pp3":"ἤλπισα","chapter":12, "pos":"verb"}
+{"form":"ἔρχομαι, ἐλεύσομαι, ἦλθον","translation":"I come","pp1":"ἔρχομαι","pp2":"ἐλεύσομαι","pp3":"ἦλθον","chapter":12, "pos":"verb"}
+{"form":"ἡγέομαι, ἡγήσομαι, ἡγησάμην","translation":"I lead","pp1":"ἡγέομαι","pp2":"ἡγήσομαι","pp3":"ἡγησάμην","chapter":12, "pos":"verb"}
+{"form":"μάχομαι, μαχήσομαι, ἐμαχησάμην","translation":"I fight","pp1":"μάχομαι","pp2":"μαχήσομαι","pp3":"ἐμαχησάμην","chapter":12, "pos":"verb"}
+{"form":"νομίζω, νομιῶ, ἐνόμισα","translation":"I think","pp1":"νομίζω","pp2":"νομιῶ","pp3":"ἐνόμισα","chapter":12, "pos":"verb"}
+{"form":"ὁμολογέω, ὁμολογήσω, ὡμολόγησα","translation":"I agree","pp1":"ὁμολογέω","pp2":"ὁμολογήσω","pp3":"ὡμολόγησα","chapter":12, "pos":"verb"}

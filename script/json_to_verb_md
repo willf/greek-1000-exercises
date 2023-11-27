@@ -1,0 +1,53 @@
+#!/usr/bin/env python
+
+import json
+import sys
+
+
+def write_table(stream):
+    table = """| Tense      | sing/1st |   2nd |   3rd | plur/1st |   2nd |       3rd | Infinitive |
+|------------|---------:|------:|------:|---------:|------:|----------:|:----------:|
+| Present    |       –ω |  –εις |   –ει |    –ομεν |  –ετε |  –ουσι(ν) | 1pp + –ειν |
+| Future     |      –σω | –σεις |  –σει |   –σομεν | –σετε | –σουσι(ν) | 2pp + –ειν |
+| Imperfect  |      –ον |   –ες | –ε(ν) |    –ομεν |  –ετε |       –ον |     -      |
+| Aorist     |       –α |   –ας | –ε(ν) |    –aμεν |  –ατε |       –αν |  3pp +-αἰ  |
+| 2nd Aorist |      –ον |   –ες | –ε(ν) |    –ομεν |  –ετε |       –ον |  3pp +-αἰ  |
+"""
+    stream.write(table)
+
+
+def create_wiktionary_link(opp):
+    # Create a link to the Wiktionary page for the 1pp
+    return f"[{opp}](https://en.wiktionary.org/wiki/{opp})"
+
+
+def create_md_file(data):
+    # Get the 1pp, form, and translation from the dictionary
+    filename = data["pp1"].replace(" ", "_")
+    form = data["form"]
+    translation = data["translation"]
+    chapter = data["chapter"]
+
+    # Create a new Markdown file with the 1pp as the filename
+    with open(f"{filename}.md", "w") as file:
+        # Write the form as a first level heading
+        file.write(f"# {form}\n\n")
+        # Write the Wiktionary link
+        file.write(f"{create_wiktionary_link(data['pp1'])}\n\n")
+        # Write the translation
+        file.write(f"{translation}\n\n")
+
+        # Write the table
+        write_table(file)
+
+        ## If there is a chapter, write it
+        if chapter:
+            file.write(f"\n\nIntroduced in Chapter {chapter}.\n\n")
+
+
+# Read from standard input line by line
+for line in sys.stdin:
+    # Parse each line into a Python dictionary
+    data = json.loads(line)
+    # Create a Markdown file for the data
+    create_md_file(data)

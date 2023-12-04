@@ -1,4 +1,6 @@
-# Nouns (Through chapter 13)
+# Nouns Through chapter 13
+
+May be incomplete!
 
 - [ἀγορά](https://github.com/willf/greek-1000-exercises/blob/main/pages/cards/nouns/ἀγορά.md)
 - [ἀδελφός](https://github.com/willf/greek-1000-exercises/blob/main/pages/cards/nouns/ἀδελφός.md)

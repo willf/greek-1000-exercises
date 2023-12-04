@@ -1,6 +1,6 @@
 # Verbs Through Chapter 13
 
-May be incomplete
+May be incomplete!
 
 - [ἄγω](https://github.com/willf/greek-1000-exercises/blob/main/pages/cards/verbs/ἄγω.md)
 - [ἀδικέω](https://github.com/willf/greek-1000-exercises/blob/main/pages/cards/verbs/ἀδικέω.md)
